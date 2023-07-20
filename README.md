@@ -5,3 +5,5 @@ Patel Kunj
 210070059
 
 I have learnt about stacks, queues, strings, linked list and BSTs. I have implemented basic linked list and BST functionalities as per the SOC project guidelines.
+
+optional stuff for BST is left (deletion)
