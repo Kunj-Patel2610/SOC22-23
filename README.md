@@ -7,3 +7,5 @@ Patel Kunj
 I have learnt about stacks, queues, strings, linked list and BSTs. I have implemented basic linked list and BST functionalities as per the SOC project guidelines.
 
 optional stuff for BST is left (deletion)
+
+Automata of star is construucted which creates graph from (...)* type language
